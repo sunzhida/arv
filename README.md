@@ -1,4 +1,4 @@
-# Introduction
+# Webpage
 
 This is the repository of [Exploring the Effects of Scale in Augmented Reality-Empowered Visual Analytics](https://sunzhida.github.io/arv/).
 
